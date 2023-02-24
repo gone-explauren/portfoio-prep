@@ -1,4 +1,4 @@
-# portfoio-prep
+# Portfolio Prep
 
 ## Creating Content...
 
